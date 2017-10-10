@@ -1,3 +1,5 @@
+
+//testcase
 #include <gtest/gtest.h>
 #include "string.h"
 TEST(stringlength,normal_len){

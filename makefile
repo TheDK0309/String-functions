@@ -1,3 +1,5 @@
+//makefile
+
 export GTEST_DIR=/u/g/e1400476/test_dir/googletest/googletest
 my_test: libgtest.a unit_test_case.c code_to_be_tested.c Gtest_main.c
 	

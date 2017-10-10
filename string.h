@@ -1,3 +1,5 @@
+
+//header
 int my_strlen(char *c);
 void mystrcpy(char *s,char *d);
 int mystrcmp (char *s, char *d);
