@@ -1,4 +1,3 @@
-# String-functions
-1111
-1112
-w[]
+# String-function
+Functions for String Operations. 
+Written in C Language
